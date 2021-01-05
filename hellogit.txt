@@ -4,3 +4,5 @@ how are u
 change to fix bug1
 
 to fix bug2
+
+change added on remote master to change pull 
