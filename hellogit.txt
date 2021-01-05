@@ -1,2 +1,4 @@
 hello git 
 how are u
+
+change to fix bug1
